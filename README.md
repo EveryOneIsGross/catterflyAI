@@ -2,8 +2,6 @@
 
 catterfly is a unique framework that imitates the life cycle of a butterfly to embody the query, define it and then chat with the user as a construction of that initial input.
 
-![catterfly_flow](https://github.com/EveryOneIsGross/catterflyAI/assets/23621140/0f5763f5-5201-4786-9b57-8fe31bb2443c)
-
 It is represented as three states:
 
 ## Caterpillar Phase:
@@ -27,7 +25,7 @@ catterfly: The Butterfly class, informed by the constructed 'personality', inter
 In both the biological phenomenon and with catterfly, there's a theme of transformation and renewal — the idea that something can be broken down to its core components and then rebuilt into something new and different, with the capacity for new types of interactions.
 
 ---
-
+![catterfly_flow](https://github.com/EveryOneIsGross/catterflyAI/assets/23621140/0f5763f5-5201-4786-9b57-8fe31bb2443c)
 
 A user's query was generated. This input calls the Caterpillar. But every being needed an identity, a name. The function, get_highest_ranked_noun, was invoked. It summoned the powers of TextBlob and Rake, scanning the user's query, searching for nouns that stood out. With its newfound name, the Caterpillar was ready to embark on its journey.
 
