@@ -2,6 +2,8 @@
 
 catterfly is a unique framework that imitates the life cycle of a butterfly to embody the query, define it and then chat with the user as a construction of that initial input.
 
+![catterfly_flow](https://github.com/EveryOneIsGross/catterflyAI/assets/23621140/0f5763f5-5201-4786-9b57-8fe31bb2443c)
+
 It is represented as three states:
 
 ## Caterpillar Phase:
@@ -21,8 +23,6 @@ catterfly: The Cocoon class takes the decisions (path) from the Caterpillar phas
 Biological: The butterfly emerges with a completely different form, with wings and other structures that allow it to interact with its environment in entirely new ways. It now perceives and interacts with the world differently than when it was a caterpillar.
 
 catterfly: The Butterfly class, informed by the constructed 'personality', interacts with the user in a dynamic manner. It has a 'memory' of past interactions (last response) and interacts based on that and the user's input, offering a new dimensional context. The idea of a caterpillar's mind being "dissolved" before being reconstructed is analogous to the process of taking user input, abstracting and breaking it down, and then reformulating it with a new "personality" or context. It also has basic tool use being able to search wikipedia and add the result into chat context. 
-
-![catterfly_flow](https://github.com/EveryOneIsGross/catterflyAI/assets/23621140/0f5763f5-5201-4786-9b57-8fe31bb2443c)
 
 ---
 In both the biological phenomenon and with catterfly, there's a theme of transformation and renewal — the idea that something can be broken down to its core components and then rebuilt into something new and different, with the capacity for new types of interactions.
