@@ -1,5 +1,7 @@
 catterfly is a unique framework that imitates the life cycle of a butterfly to understand and respond to user input. From a caterpillar's initial exploration to the butterfly's final lifecycle, this program offers a metaphorical representation of learning, growth, and evolution. It is represented as three states:
 
+![catterfly_flow](https://github.com/EveryOneIsGross/catterflyAI/assets/23621140/0f5763f5-5201-4786-9b57-8fe31bb2443c)
+
 ## Caterpillar Phase:
 
 Biological: The caterpillar consumes and learns about its environment, growing and preparing for its transformation.
